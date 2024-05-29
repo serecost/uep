@@ -1,6 +1,6 @@
 # Pregunta de Burritos
 
-Esta es una página web simple que pregunta si quieres ir a comer burritos mañana. Hay dos botones para responder: "Sí" y "No". Si haces clic en "No", el botón desaparecerá.
+Esta es una página web simple que hace una pregunta. Hay dos botones para responder: "Sí" y "No".
 
 ## Cómo acceder a la página
 
